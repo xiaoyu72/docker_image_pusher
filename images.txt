@@ -1,4 +1,4 @@
 nginx
 #支持私库
-jeessy/ddns-go
-sulinggg/openwrt:x86_64
+atlassian/confluence:eap-ubuntu-jdk17
+minio/minio:RELEASE.2024-06-13T22-53-53Z
